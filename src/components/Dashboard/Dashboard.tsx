@@ -13,11 +13,7 @@ import Toolbar from "@mui/material/Toolbar";
 import Typography from "@mui/material/Typography";
 import "./Style.css";
 
-import { BiSearch } from "react-icons/bi";
-import { FiBell, FiUserCheck, FiUserPlus, FiUsers } from "react-icons/fi";
-import { MdOutlineArrowDropDown, MdAccountCircle } from "react-icons/md";
 import SideBar from "./SideBar";
-import { optionType } from "../../Data/Types/Type";
 
 // import SideBsr from "./SideBsr";
 const drawerWidth = 240;

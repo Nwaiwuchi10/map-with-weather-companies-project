@@ -1,5 +1,4 @@
 import React from "react";
-import { optionType } from "../../Data/Types/Type";
 
 const SideBar = () => {
   return (
